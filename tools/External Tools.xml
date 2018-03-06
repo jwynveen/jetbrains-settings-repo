@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Package com_HW" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="zip" />
+      <option name="PARAMETERS" value="-r com_helloworld.zip com_helloworld" />
+      <option name="WORKING_DIRECTORY" value="/Projects/joomla-demo/src/components" />
+    </exec>
+  </tool>
+</toolSet>

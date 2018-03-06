@@ -1,5 +1,12 @@
 <scheme name="Humane-ist" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-12-30T18:33:43</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2017.3.2.0.0</property>
+    <property name="modified">2017-12-30T18:34:47</property>
+    <property name="originalScheme">Humane-ist</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
