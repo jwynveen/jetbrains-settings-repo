@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="gs" type="JavaScript" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
-    </extensionMap>
+     </extensionMap>
   </component>
 </application>
