@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="shift f11" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
@@ -10,9 +14,6 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ShowBookmarks" />
-  <action id="ShowLiveRunConfigurations">
-    <keyboard-shortcut first-keystroke="shift f11" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
