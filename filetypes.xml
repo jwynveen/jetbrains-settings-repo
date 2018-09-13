@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gs" type="JavaScript" />
-      <mapping ext="php" type="PHP" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
