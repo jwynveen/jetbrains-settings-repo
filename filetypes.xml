@@ -2,11 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gs" type="JavaScript" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
-      <mapping pattern="precommit" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PHP" />
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="precommit" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
