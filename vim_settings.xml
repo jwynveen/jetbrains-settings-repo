@@ -2,14 +2,38 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Projects/cest-la-vie-radio-app/android/build.gradle" timestamp="1542120005867">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="24" column="15" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
     <editor>
       <key-repeat enabled="true" />
