@@ -9,27 +9,70 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="24" column="15" />
       </file>
+      <file name="/Dummy.txt" timestamp="1542195075191">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" timestamp="1542196332719">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/app/google-services.json" timestamp="1542196115102">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="50" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/app/build.gradle" timestamp="1542196232925">
+        <mark key="'" line="131" column="21" />
+        <mark key="[" line="99" column="47" />
+        <mark key="]" line="99" column="47" />
+        <mark key="." line="99" column="47" />
+        <mark key="^" line="99" column="31" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="132" column="21" filename="/Projects/cest-la-vie-radio-app/android/app/build.gradle" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
+      <register name="0" type="4">
+        <text>com.equip.cestlavieradio</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIHJvb3RQcm9qZWN0LmV4dC5idWlsZFRvb2xzVmVyc2lvbgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmlyZWJhc2UnKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
+      <register name="-" type="4">
+        <text>p</text>
+      </register>
+      <register name="/" type="4">
+        <text>processDebug</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>processDebug</last-search>
+      <last-offset />
+      <last-pattern>processDebug</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry>processDebug</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
