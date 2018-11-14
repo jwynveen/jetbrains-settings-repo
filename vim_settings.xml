@@ -9,75 +9,140 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542195075191">
+      <file name="/Dummy.txt" timestamp="1542197519796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" timestamp="1542196332719">
-        <mark key="[" line="7" column="65" />
-        <mark key="]" line="7" column="65" />
-        <mark key="^" line="7" column="65" />
-        <mark key="." line="7" column="65" />
+      <file name="/Projects/cest-la-vie-radio-app/screens/Home.js" timestamp="1542201395935">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/App.js" timestamp="1542201551954">
+        <mark key="[" line="57" column="34" />
+        <mark key="]" line="58" column="49" />
+        <mark key="^" line="58" column="49" />
+        <mark key="." line="58" column="49" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" timestamp="1542200359465">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="45" />
+        <mark key="^" line="33" column="45" />
+        <mark key="." line="33" column="45" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/settings.gradle" timestamp="1542197997292">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/.gitignore" timestamp="1542199176314">
+        <mark key="'" line="200" column="1" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/AndroidManifest.xml" timestamp="1542200917765">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="27" column="65" />
+        <mark key="]" line="27" column="65" />
+        <mark key="^" line="27" column="64" />
+        <mark key="." line="27" column="65" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/package.json" timestamp="1542198805313">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="39" />
+        <mark key="." line="7" column="39" />
+        <mark key="^" line="7" column="39" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/android/app/google-services.json" timestamp="1542196115102">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="50" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/android/app/build.gradle" timestamp="1542196232925">
+      <file name="/Projects/cest-la-vie-radio-app/android/app/build.gradle" timestamp="1542199881817">
         <mark key="'" line="131" column="21" />
-        <mark key="[" line="99" column="47" />
-        <mark key="]" line="99" column="47" />
-        <mark key="." line="99" column="47" />
-        <mark key="^" line="99" column="31" />
+        <mark key="[" line="150" column="65" />
+        <mark key="]" line="150" column="65" />
+        <mark key="." line="150" column="65" />
+        <mark key="^" line="150" column="64" />
       </file>
     </filemarks>
     <jumps>
       <jump line="132" column="21" filename="/Projects/cest-la-vie-radio-app/android/app/build.gradle" />
+      <jump line="107" column="4" filename="/Projects/cest-la-vie-radio-app/android/app/build.gradle" />
+      <jump line="197" column="20" filename="/Projects/cest-la-vie-radio-app/.gitignore" />
+      <jump line="0" column="0" filename="/Projects/cest-la-vie-radio-app/.gitignore" />
+      <jump line="200" column="1" filename="/Projects/cest-la-vie-radio-app/.gitignore" />
+      <jump line="42" column="0" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" />
+      <jump line="4" column="3" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/AndroidManifest.xml" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>colorAccent</text>
+      </register>
+      <register name="-" type="4">
+        <text>colorAccent</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpb3NcPg==</text>
+      </register>
       <register name="0" type="4">
         <text>com.equip.cestlavieradio</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIHJvb3RQcm9qZWN0LmV4dC5idWlsZFRvb2xzVmVyc2lvbgo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>p</text>
+        <text encoding="base64">aW1wb3J0IGlvLmludmVydGFzZS5maXJlYmFzZS5tZXNzYWdpbmcuUk5GaXJlYmFzZU1lc3NhZ2luZ1BhY2thZ2U7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmlyZWJhc2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJORmlyZWJhc2VQYWNrYWdlKCksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
+        <text encoding="base64">aW1wb3J0IGlvLmludmVydGFzZS5maXJlYmFzZS5STkZpcmViYXNlUGFja2FnZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnb29nbGUoKQo=</text>
+        <text encoding="base64">cHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1maXJlYmFzZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1maXJlYmFzZS9hbmRyb2lkJykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1maXJlYmFzZScK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIHJvb3RQcm9qZWN0LmV4dC5idWlsZFRvb2xzVmVyc2lvbgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmlyZWJhc2UnKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>p</text>
-      </register>
-      <register name="/" type="4">
-        <text>processDebug</text>
-      </register>
     </registers>
     <search>
-      <last-search>processDebug</last-search>
+      <last-search encoding="base64">XDxpb3NcPg==</last-search>
       <last-offset />
-      <last-pattern>processDebug</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxpb3NcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>processDebug</entry>
+        <entry encoding="base64">XDxpb3NcPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>h d</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
