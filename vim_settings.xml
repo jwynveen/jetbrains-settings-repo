@@ -12,17 +12,17 @@
       <file name="/Dummy.txt" timestamp="1542197519796">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/screens/Home.js" timestamp="1542201395935">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-        <mark key="^" line="41" column="27" />
+      <file name="/Projects/cest-la-vie-radio-app/screens/Home.js" timestamp="1542204032098">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="37" column="35" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/App.js" timestamp="1542201551954">
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="58" column="49" />
-        <mark key="^" line="58" column="49" />
-        <mark key="." line="58" column="49" />
+      <file name="/Projects/cest-la-vie-radio-app/App.js" timestamp="1542204319364">
+        <mark key="[" line="40" column="74" />
+        <mark key="]" line="41" column="11" />
+        <mark key="^" line="41" column="11" />
+        <mark key="." line="41" column="11" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" timestamp="1542200359465">
         <mark key="'" line="46" column="0" />
@@ -43,12 +43,11 @@
         <mark key="^" line="200" column="0" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/AndroidManifest.xml" timestamp="1542200917765">
+      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/AndroidManifest.xml" timestamp="1542203920241">
         <mark key="'" line="4" column="3" />
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="27" column="65" />
-        <mark key="^" line="27" column="64" />
-        <mark key="." line="27" column="65" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/package.json" timestamp="1542198805313">
         <mark key="[" line="7" column="33" />
@@ -59,6 +58,12 @@
       <file name="/Projects/cest-la-vie-radio-app/android/app/google-services.json" timestamp="1542196115102">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="50" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" timestamp="1542205151985">
+        <mark key="[" line="37" column="75" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="40" column="3" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/android/app/build.gradle" timestamp="1542199881817">
         <mark key="'" line="131" column="21" />
@@ -76,13 +81,18 @@
       <jump line="200" column="1" filename="/Projects/cest-la-vie-radio-app/.gitignore" />
       <jump line="42" column="0" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" />
       <jump line="4" column="3" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/AndroidManifest.xml" />
+      <jump line="37" column="24" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="0" column="0" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="99" column="0" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="38" column="28" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="101" column="0" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>colorAccent</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goZmV0Y2hBbGJ1bXMoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>colorAccent</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpb3NcPg==</text>
@@ -91,31 +101,31 @@
         <text>com.equip.cestlavieradio</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmludmVydGFzZS5maXJlYmFzZS5tZXNzYWdpbmcuUk5GaXJlYmFzZU1lc3NhZ2luZ1BhY2thZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGF0Y2goZmV0Y2hBbGJ1bXMoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFJORmlyZWJhc2VQYWNrYWdlKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHRvZG86IHRyYWNrIGFuYWx5dGljcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLmludmVydGFzZS5maXJlYmFzZS5STkZpcmViYXNlUGFja2FnZTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHRvZG86IHRyYWNrIGFuYWx5dGljcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvamVjdCgnOnJlYWN0LW5hdGl2ZS1maXJlYmFzZScpLnByb2plY3REaXIgPSBuZXcgRmlsZShyb290UHJvamVjdC5wcm9qZWN0RGlyLCAnLi4vbm9kZV9tb2R1bGVzL3JlYWN0LW5hdGl2ZS1maXJlYmFzZS9hbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgICAgLy8gLmFuZHJvaWQuc2V0U21hbGxJY29uKCdpY19sYXVuY2hlcicpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5jbHVkZSAnOnJlYWN0LW5hdGl2ZS1maXJlYmFzZScK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJlc291cmNlPSJAY29sb3IvY29sb3JBY2NlbnQiIC8+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5nb29nbGUuZmlyZWJhc2UubWVzc2FnaW5nLmRlZmF1bHRfbm90aWZpY2F0aW9uX2NvbG9yIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uIHJvb3RQcm9qZWN0LmV4dC5idWlsZFRvb2xzVmVyc2lvbgo=</text>
+        <text encoding="base64">ICAgICAgPG1ldGEtZGF0YQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uIHByb2plY3QoJzpyZWFjdC1uYXRpdmUtZmlyZWJhc2UnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnJlc291cmNlPSJAZHJhd2FibGUvaWNfc3RhdF9pY19ub3RpZmljYXRpb24iIC8+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVG9vbHNWZXJzaW9uID0gIjI2LjAuMyIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm5hbWU9ImNvbS5nb29nbGUuZmlyZWJhc2UubWVzc2FnaW5nLmRlZmF1bHRfbm90aWZpY2F0aW9uX2ljb24iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
