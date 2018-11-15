@@ -9,7 +9,7 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542197519796">
+      <file name="/Dummy.txt" timestamp="1542286223907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/screens/Home.js" timestamp="1542209941109">
@@ -46,11 +46,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/package.json" timestamp="1542198805313">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="39" />
+      <file name="/Projects/cest-la-vie-radio-app/package.json" timestamp="1542285949789">
+        <mark key="'" line="19" column="21" />
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/android/app/google-services.json" timestamp="1542196115102">
         <mark key="[" line="12" column="27" />
@@ -98,13 +98,14 @@
       <jump line="101" column="6" filename="/Projects/cest-la-vie-radio-app/App.js" />
       <jump line="41" column="13" filename="/Projects/cest-la-vie-radio-app/App.js" />
       <jump line="23" column="27" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" />
+      <jump line="19" column="21" filename="/Projects/cest-la-vie-radio-app/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpb3NcPg==</text>
