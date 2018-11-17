@@ -14,12 +14,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" timestamp="1542209678245">
-        <mark key="'" line="22" column="27" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="45" />
-        <mark key="." line="30" column="0" />
+      <file name="/Projects/spinnect/components/GamePiece.js" timestamp="1542465368292">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/reducers.js" timestamp="1542284332499">
         <mark key="[" line="26" column="82" />
@@ -44,18 +44,6 @@
         <mark key="." line="15" column="19" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/AndroidManifest.xml" timestamp="1542203920241">
-        <mark key="'" line="4" column="3" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="/Projects/cest-la-vie-radio-app/package.json" timestamp="1542285949789">
-        <mark key="'" line="19" column="21" />
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-      </file>
       <file name="$USER_HOME$/Downloads/react-native-firebase-starter-master/README.md" timestamp="1542455762269" />
       <file name="/Projects/spinnect/package.json" timestamp="1542454708361">
         <mark key="[" line="25" column="27" />
@@ -69,12 +57,11 @@
         <mark key="." line="2" column="110" />
         <mark key="^" line="2" column="110" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/.gitignore" timestamp="1542199176314">
-        <mark key="'" line="200" column="1" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="200" column="0" />
-        <mark key="." line="200" column="0" />
+      <file name="/Projects/spinnect/GameScreen.js" timestamp="1542463644823">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1542286223907">
         <mark key="[" line="0" column="0" />
@@ -111,6 +98,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="/Projects/spinnect/screens/GameScreen.js" timestamp="1542465912107">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="24" column="7" />
+      </file>
       <file name="/Projects/cest-la-vie-radio-app/android/settings.gradle" timestamp="1542209465492">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -121,11 +114,17 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/Projects/spinnect/App.js" timestamp="1542458493780">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="/Projects/spinnect/App.js" timestamp="1542465522011">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/app/build.gradle" timestamp="1542199881817">
+        <mark key="'" line="131" column="21" />
+        <mark key="[" line="150" column="65" />
+        <mark key="]" line="150" column="65" />
+        <mark key="." line="150" column="65" />
+        <mark key="^" line="150" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -146,48 +145,47 @@
       <jump line="23" column="27" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" />
       <jump line="19" column="21" filename="/Projects/cest-la-vie-radio-app/package.json" />
       <jump line="14" column="17" filename="/Projects/cest-la-vie-radio-app/App.js" />
+      <jump line="7" column="31" filename="/Projects/spinnect/components/GamePiece.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+Z2FtZSBib2FyZDwvVGV4dD4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgICAgPEdhbWVQaWVjZSBpbml0aWFsU2lkZXM9e1sxLCAxLCAwLCAwXX0gLz4KICAgICAgICAgIDxHYW1lUGllY2UgaW5pdGlhbFNpZGVzPXtbMCwgMSwgMCwgMV19IC8+CiAgICAgICAgICA8R2FtZVBpZWNlIGluaXRpYWxTaWRlcz17WzEsIDAsIDAsIDFdfSAvPgogICAgICAgIDwvVmlldz4=</text>
       </register>
       <register name="-" type="4">
-        <text>tyles</text>
+        <text>splice</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpb3NcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>headerStyle: navStyles.headerStyle,
-    headerTintColor: navStyles.headerTintColor,
-    headerTitleStyle: navStyles.headerTitleStyle,</text>
+        <text encoding="base64">PFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgICAgPEdhbWVQaWVjZSBpbml0aWFsU2lkZXM9e1sxLCAxLCAwLCAwXX0gLz4KICAgICAgICAgIDxHYW1lUGllY2UgaW5pdGlhbFNpZGVzPXtbMCwgMSwgMCwgMV19IC8+CiAgICAgICAgICA8R2FtZVBpZWNlIGluaXRpYWxTaWRlcz17WzEsIDAsIDAsIDFdfSAvPgogICAgICAgIDwvVmlldz4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFRleHQ+Z2FtZSBib2FyZDwvVGV4dD4K</text>
+        <text encoding="base64">ICAgICAgICA8R2FtZVBpZWNlIGluaXRpYWxTaWRlcz17WzEsIDEsIDAsIDFdfSAvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMud2VsY29tZX0+CiAgICAgICAgICAgIFdlbGNvbWUgdG8geydcbid9IFJlYWN0IE5hdGl2ZSBGaXJlYmFzZQogICAgICAgICAgPC9UZXh0PgogICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5pbnN0cnVjdGlvbnN9PgogICAgICAgICAgICBUbyBnZXQgc3RhcnRlZCwgZWRpdCBBcHAuanMKICAgICAgICAgIDwvVGV4dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxJbWFnZSBzb3VyY2U9e3JlcXVpcmUoJy4vYXNzZXRzL1JlYWN0TmF0aXZlRmlyZWJhc2UucG5nJyl9IHN0eWxlPXtbc3R5bGVzLmxvZ29dfS8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxHYW1lUGllY2UgaW5pdGlhbFNpZGVzPXtbMSwgMSwgMCwgMV19IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICl9Cg==</text>
+        <text encoding="base64">ICBtb2R1bGU6IHsKICAgIGZvbnRTaXplOiAxNCwKICAgIG1hcmdpblRvcDogNCwKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtQbGF0Zm9ybS5PUyA9PT0gJ2lvcycgPyAoCiAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT4KICAgICAgICAgICAgICBQcmVzcyBDbWQrUiB0byByZWxvYWQseydcbid9CiAgICAgICAgICAgICAgQ21kK0Qgb3Igc2hha2UgZm9yIGRldiBtZW51CiAgICAgICAgICAgIDwvVGV4dD4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuaW5zdHJ1Y3Rpb25zfT4KICAgICAgICAgICAgICBEb3VibGUgdGFwIFIgb24geW91ciBrZXlib2FyZCB0byByZWxvYWQseydcbid9CiAgICAgICAgICAgICAgQ21kK00gb3Igc2hha2UgZm9yIGRldiBtZW51CiAgICAgICAgICAgIDwvVGV4dD4K</text>
+        <text encoding="base64">ICBtb2R1bGVzSGVhZGVyOiB7CiAgICBmb250U2l6ZTogMTYsCiAgICBtYXJnaW5Cb3R0b206IDgsCiAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICBtb2R1bGVzOiB7CiAgICBtYXJnaW46IDIwLAogIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2ZpcmViYXNlLmNvbmZpZy5uYXRpdmVNb2R1bGVFeGlzdHMgJiYgPFRleHQgc3R5bGU9e3N0eWxlcy5tb2R1bGV9PmNvbmZpZygpPC9UZXh0Pn0KICAgICAgICAgICAge2ZpcmViYXNlLmNyYXNobHl0aWNzLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+Y3Jhc2hseXRpY3MoKTwvVGV4dD59CiAgICAgICAgICAgIHtmaXJlYmFzZS5kYXRhYmFzZS5uYXRpdmVNb2R1bGVFeGlzdHMgJiYgPFRleHQgc3R5bGU9e3N0eWxlcy5tb2R1bGV9PmRhdGFiYXNlKCk8L1RleHQ+fQogICAgICAgICAgICB7ZmlyZWJhc2UuZmlyZXN0b3JlLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+ZmlyZXN0b3JlKCk8L1RleHQ+fQogICAgICAgICAgICB7ZmlyZWJhc2UuZnVuY3Rpb25zLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+ZnVuY3Rpb25zKCk8L1RleHQ+fQogICAgICAgICAgICB7ZmlyZWJhc2UuaWlkLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+aWlkKCk8L1RleHQ+fQogICAgICAgICAgICB7ZmlyZWJhc2UuaW52aXRlcy5uYXRpdmVNb2R1bGVFeGlzdHMgJiYgPFRleHQgc3R5bGU9e3N0eWxlcy5tb2R1bGV9Pmludml0ZXMoKTwvVGV4dD59CiAgICAgICAgICAgIHtmaXJlYmFzZS5saW5rcy5uYXRpdmVNb2R1bGVFeGlzdHMgJiYgPFRleHQgc3R5bGU9e3N0eWxlcy5tb2R1bGV9PmxpbmtzKCk8L1RleHQ+fQogICAgICAgICAgICB7ZmlyZWJhc2UubWVzc2FnaW5nLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+bWVzc2FnaW5nKCk8L1RleHQ+fQogICAgICAgICAgICB7ZmlyZWJhc2Uubm90aWZpY2F0aW9ucy5uYXRpdmVNb2R1bGVFeGlzdHMgJiYgPFRleHQgc3R5bGU9e3N0eWxlcy5tb2R1bGV9Pm5vdGlmaWNhdGlvbnMoKTwvVGV4dD59CiAgICAgICAgICAgIHtmaXJlYmFzZS5wZXJmLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+cGVyZigpPC9UZXh0Pn0KICAgICAgICAgICAge2ZpcmViYXNlLnN0b3JhZ2UubmF0aXZlTW9kdWxlRXhpc3RzICYmIDxUZXh0IHN0eWxlPXtzdHlsZXMubW9kdWxlfT5zdG9yYWdlKCk8L1RleHQ+fQo=</text>
+        <text encoding="base64">ICBpbnN0cnVjdGlvbnM6IHsKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBjb2xvcjogJyMzMzMzMzMnLAogICAgbWFyZ2luQm90dG9tOiA1LAogIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWUubW9kdWxlc30+CiAgICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMubW9kdWxlc0hlYWRlcn0+VGhlIGZvbGxvd2luZyBGaXJlYmFzZSBtb2R1bGVzIGFyZSBwcmUtaW5zdGFsbGVkOjwvVGV4dD4KICAgICAgICAgICAge2ZpcmViYXNlLmFkbW9iLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+YWRtb2IoKTwvVGV4dD59CiAgICAgICAgICAgIHtmaXJlYmFzZS5hbmFseXRpY3MubmF0aXZlTW9kdWxlRXhpc3RzICYmIDxUZXh0IHN0eWxlPXtzdHlsZXMubW9kdWxlfT5hbmFseXRpY3MoKTwvVGV4dD59CiAgICAgICAgICAgIHtmaXJlYmFzZS5hdXRoLm5hdGl2ZU1vZHVsZUV4aXN0cyAmJiA8VGV4dCBzdHlsZT17c3R5bGVzLm1vZHVsZX0+YXV0aCgpPC9UZXh0Pn0K</text>
+        <text encoding="base64">ICB3ZWxjb21lOiB7CiAgICBmb250U2l6ZTogMjAsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgbWFyZ2luOiAxMCwKICB9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6IDI1LAo=</text>
+        <text encoding="base64">ICBsb2dvOiB7CiAgICBoZWlnaHQ6IDEyMCwKICAgIG1hcmdpbkJvdHRvbTogMTYsCiAgICBtYXJnaW5Ub3A6IDY0LAogICAgcGFkZGluZzogMTAsCiAgICB3aWR0aDogMTM1LAogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
