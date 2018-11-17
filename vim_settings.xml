@@ -46,6 +46,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="/Projects/spinnect/ios/Podfile" timestamp="1542451764550">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
       <file name="/Projects/cest-la-vie-radio-app/screens/About.js" timestamp="1542291516929">
         <mark key="[" line="15" column="19" />
         <mark key="]" line="15" column="19" />
@@ -77,6 +83,12 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="/Projects/spinnect/package.json" timestamp="1542451194526">
+        <mark key="[" line="1" column="11" />
+        <mark key="]" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="^" line="1" column="18" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/android/settings.gradle" timestamp="1542209465492">
         <mark key="[" line="1" column="0" />
@@ -123,11 +135,11 @@
       <jump line="14" column="17" filename="/Projects/cest-la-vie-radio-app/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmdUb3A6IDI1LAo=</text>
+      <register name="&quot;" type="4">
+        <text>RNFirebaseStarter</text>
       </register>
       <register name="-" type="4">
-        <text>marginTop</text>
+        <text>RNFirebaseStarter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpb3NcPg==</text>
