@@ -9,24 +9,10 @@
         <mark key="." line="38" column="0" />
         <mark key="^" line="24" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542286223907">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Projects/cest-la-vie-radio-app/screens/Home.js" timestamp="1542291663138">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="/Projects/cest-la-vie-radio-app/App.js" timestamp="1542291456653">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
-        <mark key="^" line="14" column="18" />
-      </file>
-      <file name="/Projects/cest-la-vie-radio-app/screens/TrackDetail.js" timestamp="1542291545944">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" timestamp="1542209678245">
         <mark key="'" line="22" column="27" />
@@ -41,16 +27,16 @@
         <mark key="^" line="26" column="30" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/screens/Contact.js" timestamp="1542291535385">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="/Projects/spinnect/ios/Podfile" timestamp="1542451764550">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="23" column="2" />
         <mark key="^" line="23" column="2" />
         <mark key="." line="23" column="2" />
+      </file>
+      <file name="/Projects/spinnect/.gitignore" timestamp="1542455232241">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/screens/About.js" timestamp="1542291516929">
         <mark key="[" line="15" column="19" />
@@ -70,25 +56,60 @@
         <mark key="]" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
-      <file name="/Projects/cest-la-vie-radio-app/android/app/google-services.json" timestamp="1542196115102">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="50" />
+      <file name="$USER_HOME$/Downloads/react-native-firebase-starter-master/README.md" timestamp="1542455762269" />
+      <file name="/Projects/spinnect/package.json" timestamp="1542454708361">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="/Projects/spinnect/README.md" timestamp="1542455911398">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="110" />
+        <mark key="." line="2" column="110" />
+        <mark key="^" line="2" column="110" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/.gitignore" timestamp="1542199176314">
+        <mark key="'" line="200" column="1" />
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="200" column="0" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542286223907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/App.js" timestamp="1542291456653">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/TrackDetail.js" timestamp="1542291545944">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/Contact.js" timestamp="1542291535385">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" timestamp="1542291528993">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="/Projects/spinnect/android/app/src/main/java/com/wynsome/spinnect/MainApplication.java" timestamp="1542455582109">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
       <file name="/Projects/cest-la-vie-radio-app/styles.js" timestamp="1542292316303">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="/Projects/spinnect/package.json" timestamp="1542451194526">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
       </file>
       <file name="/Projects/cest-la-vie-radio-app/android/settings.gradle" timestamp="1542209465492">
         <mark key="[" line="1" column="0" />
@@ -99,20 +120,6 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="/Projects/cest-la-vie-radio-app/.gitignore" timestamp="1542199176314">
-        <mark key="'" line="200" column="1" />
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-      </file>
-      <file name="/Projects/cest-la-vie-radio-app/android/app/build.gradle" timestamp="1542199881817">
-        <mark key="'" line="131" column="21" />
-        <mark key="[" line="150" column="65" />
-        <mark key="]" line="150" column="65" />
-        <mark key="." line="150" column="65" />
-        <mark key="^" line="150" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -136,10 +143,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RNFirebaseStarter</text>
+        <text encoding="base64">eW91ciA=</text>
       </register>
       <register name="-" type="4">
-        <text>RNFirebaseStarter</text>
+        <text encoding="base64">eW91ciA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpb3NcPg==</text>
