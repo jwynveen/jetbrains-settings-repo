@@ -1,0 +1,220 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Projects/cest-la-vie-radio-app/android/build.gradle" timestamp="1542120005867">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="24" column="15" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/Home.js" timestamp="1542291663138">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/Projects/spinnect/components/GamePiece.js" timestamp="1542465368292">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="52" column="20" />
+        <mark key="." line="52" column="20" />
+        <mark key="^" line="52" column="20" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/reducers.js" timestamp="1542284332499">
+        <mark key="[" line="26" column="82" />
+        <mark key="]" line="26" column="30" />
+        <mark key="^" line="26" column="30" />
+        <mark key="." line="26" column="30" />
+      </file>
+      <file name="/Projects/spinnect/ios/Podfile" timestamp="1542451764550">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
+      <file name="/Projects/spinnect/.gitignore" timestamp="1542455232241">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/About.js" timestamp="1542291516929">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
+        <mark key="^" line="15" column="19" />
+      </file>
+      <file name="$USER_HOME$/Downloads/react-native-firebase-starter-master/README.md" timestamp="1542455762269" />
+      <file name="/Projects/spinnect/package.json" timestamp="1542454708361">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="1" column="18" />
+      </file>
+      <file name="/Projects/spinnect/README.md" timestamp="1542455911398">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="110" />
+        <mark key="." line="2" column="110" />
+        <mark key="^" line="2" column="110" />
+      </file>
+      <file name="/Projects/spinnect/GameScreen.js" timestamp="1542463644823">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1542286223907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/App.js" timestamp="1542291456653">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/TrackDetail.js" timestamp="1542291545944">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/Contact.js" timestamp="1542291535385">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" timestamp="1542291528993">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="/Projects/spinnect/android/app/src/main/java/com/wynsome/spinnect/MainApplication.java" timestamp="1542455582109">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="2" />
+        <mark key="^" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/styles.js" timestamp="1542292316303">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="/Projects/spinnect/screens/GameScreen.js" timestamp="1542465912107">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="24" column="8" />
+        <mark key="^" line="24" column="7" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/settings.gradle" timestamp="1542209465492">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/screens/TrackList.js" timestamp="1542291557464">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="/Projects/spinnect/App.js" timestamp="1542465522011">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
+      <file name="/Projects/cest-la-vie-radio-app/android/app/build.gradle" timestamp="1542199881817">
+        <mark key="'" line="131" column="21" />
+        <mark key="[" line="150" column="65" />
+        <mark key="]" line="150" column="65" />
+        <mark key="." line="150" column="65" />
+        <mark key="^" line="150" column="64" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="132" column="21" filename="/Projects/cest-la-vie-radio-app/android/app/build.gradle" />
+      <jump line="107" column="4" filename="/Projects/cest-la-vie-radio-app/android/app/build.gradle" />
+      <jump line="197" column="20" filename="/Projects/cest-la-vie-radio-app/.gitignore" />
+      <jump line="0" column="0" filename="/Projects/cest-la-vie-radio-app/.gitignore" />
+      <jump line="200" column="1" filename="/Projects/cest-la-vie-radio-app/.gitignore" />
+      <jump line="42" column="0" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" />
+      <jump line="4" column="3" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/AndroidManifest.xml" />
+      <jump line="37" column="24" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="0" column="0" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="99" column="0" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="38" column="28" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="101" column="0" filename="/Projects/cest-la-vie-radio-app/screens/AlbumList.js" />
+      <jump line="101" column="6" filename="/Projects/cest-la-vie-radio-app/App.js" />
+      <jump line="41" column="13" filename="/Projects/cest-la-vie-radio-app/App.js" />
+      <jump line="23" column="27" filename="/Projects/cest-la-vie-radio-app/android/app/src/main/java/com/cestlavieradioapp/MainApplication.java" />
+      <jump line="19" column="21" filename="/Projects/cest-la-vie-radio-app/package.json" />
+      <jump line="14" column="17" filename="/Projects/cest-la-vie-radio-app/App.js" />
+      <jump line="7" column="31" filename="/Projects/spinnect/components/GamePiece.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgICAgPEdhbWVQaWVjZSBpbml0aWFsU2lkZXM9e1sxLCAxLCAwLCAwXX0gLz4KICAgICAgICAgIDxHYW1lUGllY2UgaW5pdGlhbFNpZGVzPXtbMCwgMSwgMCwgMV19IC8+CiAgICAgICAgICA8R2FtZVBpZWNlIGluaXRpYWxTaWRlcz17WzEsIDAsIDAsIDFdfSAvPgogICAgICAgIDwvVmlldz4=</text>
+      </register>
+      <register name="-" type="4">
+        <text>splice</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxpb3NcPg==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PFZpZXcgc3R5bGU9e3N0eWxlcy5yb3d9PgogICAgICAgICAgPEdhbWVQaWVjZSBpbml0aWFsU2lkZXM9e1sxLCAxLCAwLCAwXX0gLz4KICAgICAgICAgIDxHYW1lUGllY2UgaW5pdGlhbFNpZGVzPXtbMCwgMSwgMCwgMV19IC8+CiAgICAgICAgICA8R2FtZVBpZWNlIGluaXRpYWxTaWRlcz17WzEsIDAsIDAsIDFdfSAvPgogICAgICAgIDwvVmlldz4=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8R2FtZVBpZWNlIGluaXRpYWxTaWRlcz17WzEsIDEsIDAsIDFdfSAvPgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxHYW1lUGllY2UgaW5pdGlhbFNpZGVzPXtbMSwgMSwgMCwgMV19IC8+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBtb2R1bGU6IHsKICAgIGZvbnRTaXplOiAxNCwKICAgIG1hcmdpblRvcDogNCwKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBtb2R1bGVzSGVhZGVyOiB7CiAgICBmb250U2l6ZTogMTYsCiAgICBtYXJnaW5Cb3R0b206IDgsCiAgfSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBtb2R1bGVzOiB7CiAgICBtYXJnaW46IDIwLAogIH0sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBpbnN0cnVjdGlvbnM6IHsKICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICBjb2xvcjogJyMzMzMzMzMnLAogICAgbWFyZ2luQm90dG9tOiA1LAogIH0sCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB3ZWxjb21lOiB7CiAgICBmb250U2l6ZTogMjAsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAogICAgbWFyZ2luOiAxMCwKICB9LAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsb2dvOiB7CiAgICBoZWlnaHQ6IDEyMCwKICAgIG1hcmdpbkJvdHRvbTogMTYsCiAgICBtYXJnaW5Ub3A6IDY0LAogICAgcGFkZGluZzogMTAsCiAgICB3aWR0aDogMTM1LAogIH0sCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxpb3NcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxpb3NcPg==</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>processDebug</entry>
+        <entry encoding="base64">XDxpb3NcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>h d</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
