@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ini" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,7 +15,6 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>*.i</mask>
-      <mask>*.ini</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
@@ -30,6 +30,11 @@
       <mask>build.grad</mask>
       <mask>build.gradl</mask>
       <mask>build.gradle</mask>
+      <mask>.</mask>
+      <mask>.i</mask>
+      <mask>.in</mask>
+      <mask>.ini</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
