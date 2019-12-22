@@ -1,17 +1,15 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gs" type="JavaScript" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="precommit" type="PLAIN_TEXT" />
-      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="bzl" type="PLAIN_TEXT" />
     </extensionMap>
