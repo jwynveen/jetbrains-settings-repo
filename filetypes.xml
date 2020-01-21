@@ -13,6 +13,7 @@
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="bzl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
