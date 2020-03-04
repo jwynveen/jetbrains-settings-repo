@@ -1,9 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="accentColor" value="009688" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="-79aceff5:16ecb700f42:-7fff" />
-    <option name="version" value="4.11.4" />
+    <option name="version" value="4.11.5" />
   </component>
 </application>
