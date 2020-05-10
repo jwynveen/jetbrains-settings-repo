@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="env" type=".env file" />
       <mapping ext="gs" type="JavaScript" />
       <mapping pattern="precommit" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
@@ -10,9 +11,11 @@
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="twig" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="bzl" type="PLAIN_TEXT" />
+      <removed_mapping ext="env" type=".env file" />
     </extensionMap>
   </component>
 </application>
