@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gs" type="JavaScript" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
       <mapping pattern=".env-dev" type="PLAIN_TEXT" />
       <mapping pattern="precommit" type="PLAIN_TEXT" />
@@ -12,12 +13,12 @@
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern="pre-commit" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <mapping ext="bzl" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="twig" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="bzl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
