@@ -1,4 +1,4 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -8,5 +8,10 @@
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
 </code_scheme>
