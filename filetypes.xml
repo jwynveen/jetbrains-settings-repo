@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".gcloudignore" type="PLAIN_TEXT" />
+      <mapping pattern="metadata" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
